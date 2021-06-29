@@ -37,9 +37,7 @@ ROS系统是起源于2007年斯坦福大学人工智能实验室的项目与机�
 
 ![28yYPe.png](https://z3.ax1x.com/2021/06/04/28yYPe.png)
 
-
-
-
+</br></br></br>
 
 # Chapter 2 - ROS与机械臂开发
 
@@ -120,6 +118,8 @@ MoveIt!使用CollisionWorld对象进行碰撞检测，采用FCL(Flexible Collisi
 ### 2.3 总结
 [![Raerh4.png](https://z3.ax1x.com/2021/06/29/Raerh4.png)](https://imgtu.com/i/Raerh4)
 
+</br></br></br>
+
 # Chapter 3 - ROS Examples
 
 ## 本章节将介绍与ROS相关的实际案例，将让大家了解实际的使用ROS开发的机器人应用
@@ -156,6 +156,8 @@ PR2（Personal Robot 2，个人机器人2代）是Willow Garage公司设计的�
 这是2017年底深圳高交会展示的项目，改造了电机生产流水线中的一个重要工序——平衡。结合Kungfu Arm设计了一套自动化上下料工作单元，替代了工人的重复劳动，并且取得了较好的效果。
 
 [![RaZhWj.png](https://z3.ax1x.com/2021/06/29/RaZhWj.png)](https://imgtu.com/i/RaZhWj)
+
+</br></br></br>
 
 # Chapter 4 - Who?
 
